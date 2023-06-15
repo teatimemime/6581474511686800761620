@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "338801993873",
+    "project_id": "kamikaze-de8e0",
+    "storage_bucket": "kamikaze-de8e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338801993873:android:e4b8e0d0aea0c3e5de3730",
+        "android_client_info": {
+          "package_name": "com.cfeguia.Consultadescarga.imprimegratis.recibodeluzcfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338801993873-6io51gfsegshnk5vlqodr7a61f84i59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD89oTjPHxHHp9Ik_07rhSX1vK1JFQPHCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338801993873-6io51gfsegshnk5vlqodr7a61f84i59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338801993873:android:ac72e5e5bc89a5b4de3730",
+        "android_client_info": {
+          "package_name": "com.ucguidebrowsertips.privatebrowserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338801993873-6io51gfsegshnk5vlqodr7a61f84i59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD89oTjPHxHHp9Ik_07rhSX1vK1JFQPHCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338801993873-6io51gfsegshnk5vlqodr7a61f84i59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
